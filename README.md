@@ -17,7 +17,7 @@ Gamepad(Xbox): Left Stick - Movement, X - Fire, A - Jump.
 - Golden key appears on the near platform when all enemies are being eliminated. 
 - Gate opens while key is collected by player.
 - Enemies are keep moving from the wall to hole edge.
-- First obstacle can be overcome by a single jump but Golden key platform can be reach only by double jumping. 
+- First obstacle can be overcome by a single jump but Golden key platform can be reached only by double jumping. 
 - Gate floor can be reached only by a lift that keeps on moving up and down. Lift stops for 2 seconds at the top and bottom.
 
 > _The game includes just one level and there are no plans to continue developing._
